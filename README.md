@@ -9,6 +9,7 @@ It is not inteded to be a "good" vimrc and much less "the better" vimrc in the w
 ## Contributing
 If you find something that doesn't work or if you know a better way to do something feel free to contribute with an issue or with a pull request.
 If you would like to add a new feature, fork the repo and add the new feature to your fork but don't send me a pull request.
+I will add any contributor to a "Contributors" list on this page.
 
 ## License
 This Software is released under the MIT License. You can read the full text of the license in the LICENSE file in this directory.
