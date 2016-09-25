@@ -89,14 +89,13 @@ inoremap <Left> <nop>
 noremap <F2> :NERDTreeToggle<CR>
 
 " MAKE settings
-" use mingw32-make as make program
-" set '-f Makefile all' as default option
+" use make as make program
 set makeprg=make
 " save the current file
 " look for Makefile in the current file directory
 " use <F5> to make ('all' target)
 noremap <F5> :w \| :lcd %:p:h \| :make all<CR>
-" use <F6> to make and run using ('run' target)
+" use <F6> to make and run ('all' and 'run' targets)
 noremap <F6> :w \| :lcd %:p:h \| :make all run<CR> 
 
 " VIMRC editing inside VIM
