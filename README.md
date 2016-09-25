@@ -1,2 +1,2 @@
 # my-vimrc
-My personal vimrc file
+This repository contains my personal vimrc file.
