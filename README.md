@@ -1,6 +1,6 @@
 # my-vimrc
 This repository contains my personal vimrc file.
-You can do almost whatever you want with it ("almost" because of the licenserestrictions): you can use it as an inspiration for your personal vimrc or use it directly as is it is provided.
+You can do almost whatever you want with it ("almost" because of the license restrictions): you can use it as an inspiration or use it as your personal vimrc.
 
 ## Contributing
 If you find something that doesn't work or if you know a better way to do something feel free to contribute with an issue or with a pull request.
