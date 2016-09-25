@@ -1,5 +1,5 @@
-" My vimrc 
-" some settings are from mhinz/vim-galore minimal-vimrc
+" My vimrc
+" based on mhinz/vim-galore minimal-vimrc
 
 " You want Vim, not vi. When Vim finds a vimrc, 'nocompatible' is set anyway.
 " We set it explicitely to make our position clear!
